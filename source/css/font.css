@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Noto_Serif_SC';
+    font-display: swap;
+    src: url('../font/Noto_Serif_SC.ttf') format("truetype");
+  }
+  
+  body {
+    font-family: 'Noto_Serif_SC', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  
